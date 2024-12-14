@@ -1,5 +1,4 @@
 # Ermias
-
 Welcome to my crib:) I'm an Ethereum Developer specializing in building dapps on the blockchain.
 
 ## About Me
@@ -12,10 +11,10 @@ Welcome to my crib:) I'm an Ethereum Developer specializing in building dapps on
 - **Hardhat**: Development environment for Ethereum software
 - **React**: Building responsive and interactive front-end interfaces
 
-## My Skills
+## My Skills 
 
 ### Blockchain Development
-- Smart Contract Development
+- Smart Contract Development,I am *solid* at Solidity
 - Ethereum Virtual Machine (EVM) understanding
 - Gas Optimization
 - Security Audits
@@ -27,7 +26,7 @@ Welcome to my crib:) I'm an Ethereum Developer specializing in building dapps on
 
 ### Development Tools
 - Hardhat for local Ethereum network and testing
-- Truffle (familiarity)  Still mourning its sunset:smile: feels like an OG died
+- Truffle (familiarity)  Still mourning its sunset :smile: feels like an OG died
 - OpenZeppelin for secure smart contract libraries
 
 ## Badges
