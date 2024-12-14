@@ -27,7 +27,7 @@ Welcome to my crib:) I'm an Ethereum Developer specializing in building dapps on
 
 ### Development Tools
 - Hardhat for local Ethereum network and testing
-- Truffle (familiarity)
+- Truffle (familiarity)  Still mourning its sunset:smile: feels like an OG died
 - OpenZeppelin for secure smart contract libraries
 
 ## Badges
